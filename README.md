@@ -11,4 +11,13 @@ the sales Dashboard show sale categories,Profit gained over time, Sales by state
 5.	Month-wise Sales – Presents the monthly sales trend over a year.
 6.	Top 5 Customers Making Profits – Highlights the top five customers contributing the highest profits.
 
-Dashboard Interaction <a href="
+## Quation(KPIs)
+-	Sales by Category – Breaks down sales into subcategories such as Phones, Chairs, Tables, etc.
+-	Profit Gained Over Time – Tracks profit trends from 2014 to 2018, segregating by furniture, office supplies, and technology.
+-	Sales by State – Displays sales volume across different states, segmented by product categories.
+-	Customer Count by Year – Shows the number of customers gained annually from 2014 to 2017.
+-	Month-wise Sales – Presents the monthly sales trend over a year.
+-	Top 5 Customers Making Profits – Highlights the top five customers contributing the highest profits.
+
+- Dashboard Interaction <a href="https://github.com/Salam123-c/Data-analyst-Daashboard/blob/main/Screenshot%202024-09-30%20155022.png">View Dashboard</a>
+
