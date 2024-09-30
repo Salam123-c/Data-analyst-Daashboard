@@ -21,3 +21,8 @@ the sales Dashboard show sale categories,Profit gained over time, Sales by state
 
 - Dashboard Interaction <a href="https://github.com/Salam123-c/Data-analyst-Daashboard/blob/main/Screenshot%202024-09-30%20155022.png">View Dashboard</a>
 
+## Process
+
+-	Data Collection – Sales data was collected over a period, categorized into product types, customer details, and locations.
+-	Data Analysis – The analysis focused on identifying sales distribution across product categories, state-wise performance, and customer contributions.
+-	Visualization – The results are visualized using charts and graphs, displaying sales trends, profit margins, and customer behaviour.
