@@ -28,3 +28,5 @@ the sales Dashboard show sale categories,Profit gained over time, Sales by state
 -	Visualization – The results are visualized using charts and graphs, displaying sales trends, profit margins, and customer behaviour.
 -	
 ## Dashboard
+<img width="730" alt="Screenshot 2024-09-30 155022" src="https://github.com/user-attachments/assets/211ea337-ddfe-4dd1-b7f2-60d94cb61d3c">
+
